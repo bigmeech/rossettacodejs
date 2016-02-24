@@ -32,7 +32,6 @@ function Doors100(passes, doors){
 }
 
 
-
 //Runs a set number of passes as specified in the constructor
 Doors100.prototype.runPass = function(){
   var callback = function(passNumber, door, index, doors){
