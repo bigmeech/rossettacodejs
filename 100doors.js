@@ -3,7 +3,7 @@
  *
  *
  * This is the Doors 100 rossetta code challenege written in JS
- * Outcome of this code is to pass through 100 doors 100 times, toggling the state at ever pass.
+ * Outcome of this code is to pass through 100 doors 100 times, toggling the state at every pass.
  *
  * see link
  * http://rosettacode.org/wiki/100_doors
